@@ -28,10 +28,7 @@ We are committed to expanding our services continually, automating more processe
 3. Run the application locally with `npm start`.
 
 ## Video Example 
-<video width="320" height="240" controls>
-  <source src="public/auto.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![auto-ezgif com-video-to-gif-converter](https://github.com/imodoiepale/E-Cyber-Automation-of-Immigration-Applications--Web-3--Spill-Over-Hackathon-ICP/assets/101794204/4f033014-db67-406c-8feb-06241d201499)
 
 
 
