@@ -27,6 +27,10 @@ We are committed to expanding our services continually, automating more processe
 2. Install dependencies using `npm install`.
 3. Run the application locally with `npm start`.
 
+## Video Example 
+![Automation Video](public/auto.mp4)
+
+
 ## Live Demo
 
 Check out our live demo [here](https://p4hsy-kiaaa-aaaal-admza-cai.icp0.io/) to experience the Immigration dApp in action.
