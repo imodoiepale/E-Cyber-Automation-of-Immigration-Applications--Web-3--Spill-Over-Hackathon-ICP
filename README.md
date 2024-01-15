@@ -28,7 +28,11 @@ We are committed to expanding our services continually, automating more processe
 3. Run the application locally with `npm start`.
 
 ## Video Example 
-![Automation Video](public/auto.mp4)
+<video width="320" height="240" controls>
+  <source src="public/auto.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## Live Demo
