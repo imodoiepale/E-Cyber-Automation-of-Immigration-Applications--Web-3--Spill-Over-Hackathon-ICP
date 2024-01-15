@@ -1,4 +1,4 @@
-# E-Cyber - E-Migation (Immigration Automation dApp)
+# E-Cyber - E-Migration (Immigration Automation dApp)
 
 Welcome to the Immigration dApp, a decentralized solution designed to simplify the immigration process using cutting-edge technology. Our dedicated team of developers, comprising James, David, and John, has crafted this application to automate and streamline form-filling procedures associated with immigration services. We aim to provide a user-friendly, efficient, and secure experience for all.
 
